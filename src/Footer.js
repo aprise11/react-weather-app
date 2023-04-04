@@ -7,7 +7,11 @@ export default function Footer() {
     <footer className="Footer">
       <small>
         This project was coded by Agneta Prise and is
-        <a href="https://github.com/aprise11/sky-weather-app" target="_blank">
+        <a
+          href="https://github.com/aprise11/sky-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced on GitHub
         </a>
       </small>
