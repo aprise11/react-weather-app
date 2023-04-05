@@ -7,8 +7,9 @@ export default function Footer() {
     <footer className="Footer">
       <small>
         This project was coded by Agneta Prise and is
+        <br />
         <a
-          href="https://github.com/aprise11/sky-weather-app"
+          href="https://github.com/aprise11/react-weather-app"
           target="_blank"
           rel="noreferrer"
         >
