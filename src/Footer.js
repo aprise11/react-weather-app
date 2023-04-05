@@ -11,7 +11,7 @@ export default function Footer() {
         <a
           href="https://github.com/aprise11/react-weather-app"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           open-sourced on GitHub
         </a>
